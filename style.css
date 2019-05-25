@@ -1,0 +1,120 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    background: #002211;
+}
+
+.header {
+    text-align: center;
+    font-size: 50px;
+}
+
+.tv {
+    background-color: #002211;
+    padding: 6px;
+}
+
+.section {
+    margin-top: 90px;
+}
+
+.about {
+    margin-top: 400px;
+    text-align: left;
+    padding-bottom: 10px;
+}
+
+.general {
+    margin-left: 13.5%;
+}
+
+.cast {
+    display: block;
+    margin: 0 auto;
+    
+}
+
+.video {
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    text-decoration: underline;
+    /*background: #116644;*/
+    text-align: center;
+    border-radius: 4px;
+}
+
+div #storyline {
+    width: 1000px;
+}
+
+.content {
+    background: #87A878;
+    border-radius: 4px;
+}
+
+.cover {
+    margin: 20px;
+    float: left;
+    margin-left: 250px;
+    border-radius: 8px;
+    border: 4px solid #002211;
+}
+
+.brief {
+    width: 1000px;
+    margin-top: 30px;
+    text-align: justify;
+}
+
+.description {
+    align-content: center;
+}
+
+.portrait {
+    float: left;
+}
+
+.actor {
+    margin: 5px;
+    border: 1px solid #002211;
+    float: left;
+    display: block;
+    width: 180px;
+  }
+  
+  .actor:hover {
+    border: 3px solid #777;
+  }
+  
+   .portrait {
+    width: 100%;
+    height: auto;
+  }
+  
+  .actor_name {
+    background: #ccc;
+    margin-top: 30%;
+    padding: 5%;
+    text-align: center;
+    color: #2e3d49
+  }
+
+  .subtitle {
+      width: 75%;
+      margin: 0 auto;
+      background: #002211;
+      border-radius: 8px;
+  }
+
+  .chars {
+      background: #87A878;
+      margin-left: 6%;
+      border-radius: 4px;
+  }
